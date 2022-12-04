@@ -29,7 +29,7 @@ Upload your recording to YouTube, link it from your [README.md], and add it to t
 
 And push the following files in this repository in the this root directory *and* a `.zip` of this repository on Canvas:
 
-- Script: [script.pdf](script.pdf) with your recording script (using either Markdown or a pdf)
+- Script: [script.md](script.md) or [script.pdf](script.pdf) with your recording script (using either Markdown or a pdf)
 - Recording: [recording.mp4](recording.mp4) with your video recording. We ask that you use H.264 for video and AAC for audio (see https://vimeo.com/help/compression to make it easier to share later). Please use this standard format.
 - Slides (if you use them in your recording): [slides.pdf](slides.pdf) and slide sources (e.g., [slides.pptx](slides.pptx) or [slides.key](slides.key)).
 
