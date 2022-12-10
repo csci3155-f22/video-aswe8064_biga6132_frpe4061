@@ -20,7 +20,7 @@ TODO: Replace with building and testing instructions. Please minimize the number
 
 TODO: Update the following links and remove this line.
 
-- YouTube: https://youtu.be/TODO.
-- Script: [script.pdf](script.pdf).
-- Recording: [recording.mp4](recording.mp4).
-- Slides (if you use them in your recording): [slides.pdf](slides.pdf) and slide sources (e.g., [slides.pptx](slides.pptx) or [slides.key](slides.key)).
+- YouTube: [https://youtu.be/MUk1CAbt95s](https://youtu.be/MUk1CAbt95s)
+- Script: [script.pdf](https://github.com/csci3155-f22/video-aswe8064_biga6132_frpe4061/blob/main/Mini%20Project%20Script.pdf).
+- Recording: file too large for github
+- Slides: [slides.pdf](https://github.com/csci3155-f22/video-aswe8064_biga6132_frpe4061/blob/main/Mini%20Project%20Slides.pdf)
