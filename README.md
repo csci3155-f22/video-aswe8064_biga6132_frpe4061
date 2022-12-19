@@ -3,24 +3,21 @@
 
 See [instructions.md](instructions.md) for submission instructions.
 
-# TODO: Replace this with Your Project Title
+Freddy, Ashley, and Biswas Higher Order functions Mini Project
 
 ## Description
 
-TOD: Replace this with at least a few paragraphs describing your project.
+The main goal of our project was to clairfy for all what exactly higher order functions are and compare and constrast them in Python and Scala. We start by explaining what high order functions are and what they are used for. We then get into the actual comparing and constrasting of the higher order functions in Python and Scala. We demonstrate two different functions and their implementations in both languages. From our research and gaining a deeper understanding of higher order functions, we came to the conclusion that they are really not different in how they operate except for the syntax of them. Any programming lanugage that allows higher order functions works almost exactly the same except for a few minor implementation differences.
+
 ## Repository Organization
 
-TODO: Replace this with a description of the organization of your repository.
+Our intital first draft of our script is saved under script.pdf with the final draft as Mini Project Script.pdf. Unfortunetly our recording was too large to add directly to github but has been added to YouTube. Our slides are located in Mini Project Slides.pdf which were used for demontrating and presenting in the video.
 
-## Building and Testing Instructions
-
-TODO: Replace with building and testing instructions. Please minimize the number of dependencies and as simple and platform-independent as possible. Consider, for example, using [Docker](https://www.docker.com/).
 
 ## Presentation
 
-TODO: Update the following links and remove this line.
 
-- YouTube: https://youtu.be/TODO.
-- Script: [script.md](script.md) or [script.pdf](script.pdf).
-- Recording: [recording.mp4](recording.mp4).
-- Slides (if you use them in your recording): [slides.pdf](slides.pdf) and slide sources (e.g., [slides.pptx](slides.pptx) or [slides.key](slides.key)).
+- YouTube: [https://youtu.be/MUk1CAbt95s](https://youtu.be/MUk1CAbt95s)
+- Script: [script.pdf](https://github.com/csci3155-f22/video-aswe8064_biga6132_frpe4061/blob/main/Mini%20Project%20Script.pdf).
+- Recording: file too large for github
+- Slides: [slides.pdf](https://github.com/csci3155-f22/video-aswe8064_biga6132_frpe4061/blob/main/Mini%20Project%20Slides.pdf)
